@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GTA Blog</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; }
+    header { background: #222; color: #fff; padding: 20px 0; text-align: center; }
+    nav { background: #333; text-align: center; padding: 10px 0; }
+    nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
+    nav a:hover { text-decoration: underline; }
+    main { max-width: 1000px; margin: auto; padding: 20px; background: #fff; }
+    article { margin-bottom: 40px; }
+    h2 { color: #444; }
+    footer { background: #222; color: #fff; text-align: center; padding: 10px; margin-top: 40px; }
+    img { max-width: 100%; height: auto; border-radius: 8px; margin: 10px 0; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>GTA Blog</h1>
+    <p>Exploring Grand Theft Auto Games</p>
+  </header>
+  <nav>
+    <a href="#gta1">GTA 1</a>
+    <a href="#gta2">GTA 2</a>
+    <a href="#gta3">GTA III</a>
+    <a href="#vc">Vice City</a>
+    <a href="#sa">San Andreas</a>
+    <a href="#gta4">GTA IV</a>
+    <a href="#gta5">GTA V</a>
+    <a href="#gta6">GTA VI</a>
+  </nav>
+  <main>
+    <article id="gta1">
+      <h2>Grand Theft Auto (1997)</h2>
+      <img src="https://upload.wikimedia.org/wikipedia/en/e/e4/Grand_Theft_Auto_cover.png" alt="GTA 1 cover" />
+      <p>The original top-down game that started it all. Released in 1997, it let players explore Liberty City, Vice City, and San Andreas. It laid the foundation for the series with its open-world chaos and crime-based missions.</p>
+    </article>
+    <article id="gta2">
+      <h2>Grand Theft Auto 2 (1999)</h2>
+      <img src="https://upload.wikimedia.org/wikipedia/en/f/f0/Grand_Theft_Auto_2_cover.jpg" alt="GTA 2 cover" />
+      <p>Set in a futuristic city, GTA 2 added gang warfare and more complex gameplay. While it kept the top-down view, it enhanced AI behavior and allowed players to choose sides among gangs.</p>
+    </article>
+    <article id="gta3">
+      <h2>Grand Theft Auto III (2001)</h2>
+      <img src="https://upload.wikimedia.org/wikipedia/en/5/5c/Grand_Theft_Auto_III_cover.png" alt="GTA 3 cover" />
+      <p>A revolutionary title that brought the franchise into 3D. Set in Liberty City, GTA III offered an immersive open-world experience with a full storyline, voice acting, and realistic physics.</p>
+    </article>
+    <article id="vc">
+      <h2>Grand Theft Auto: Vice City (2002)</h2>
+      <img src="https://upload.wikimedia.org/wikipedia/en/9/97/Grand_Theft_Auto_Vice_City_box_cover.jpg" alt="Vice City cover" />
+      <p>Vice City delivered a 1980s Miami aesthetic, packed with neon, palm trees, and a rocking soundtrack. Tommy Vercetti’s rise in the drug empire gave players an unforgettable storyline and open-world fun.</p>
+    </article>
+    <article id="sa">
+      <h2>Grand Theft Auto: San Andreas (2004)</h2>
+      <img src="https://upload.wikimedia.org/wikipedia/en/c/c4/GTASABOX.jpg" alt="San Andreas cover" />
+      <p>One of the largest games of its time, San Andreas introduced CJ, gang dynamics, RPG mechanics, and a huge map with three cities. It became a cultural milestone for open-world gaming.</p>
+    </article>
+    <article id="gta4">
+      <h2>Grand Theft Auto IV (2008)</h2>
+      <img src="https://upload.wikimedia.org/wikipedia/en/3/33/Grand_Theft_Auto_IV_cover.jpg" alt="GTA 4 cover" />
+      <p>Following the story of Niko Bellic in a gritty, realistic Liberty City, GTA IV focused on narrative depth and emotional storytelling, using Rockstar’s new RAGE engine for physics and animation.</p>
+    </article>
+    <article id="gta5">
+      <h2>Grand Theft Auto V (2013)</h2>
+      <img src="https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png" alt="GTA 5 cover" />
+      <p>Featuring three protagonists (Michael, Franklin, and Trevor), GTA V is one of the most successful games of all time. Its massive world, heist missions, and GTA Online made it a modern classic.</p>
+    </article>
+    <article id="gta6">
+      <h2>Grand Theft Auto VI (TBA)</h2>
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Grand_Theft_Auto_VI_logo.svg/1920px-Grand_Theft_Auto_VI_logo.svg.png" alt="GTA 6 logo" />
+      <p>GTA VI is currently in development and expected to be set in Vice City with dual protagonists. It promises a dynamic open world and expanded interactivity, aiming to redefine the sandbox genre once again.</p>
+    </article>
+  </main>
+  <footer>
+    <p>&copy; 2025 GTA Blog. All rights reserved.</p>
+  </footer>
+</body>
+</html>
